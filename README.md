@@ -49,7 +49,7 @@ Veja o plano estruturado em:
 
 ![Mapa Mental](./assets/NotebookLM Mind Map.png)
 📊 [Baixar apresentação](./assets/The_Future_Analyst.pptx)
-🎥 [Assistir vídeo](./assests/Analista_de_Dados__Carreira_2026.mp4)
+🎥 [Assistir vídeo](./assets/Analista_de_Dados__Carreira_2026.mp4)
 
 ---
 
