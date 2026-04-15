@@ -49,6 +49,7 @@ Veja o plano estruturado em:
 
 ![Mapa Mental](./assets/mapa-mental.png)
 📊 [Baixar apresentação](./assets/apresentacao.pptx)
+🎥 [Assistir vídeo](LINK_AQUI)
 ---
 
 ## 🤝 Contribuição
