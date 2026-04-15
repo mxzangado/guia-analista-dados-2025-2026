@@ -47,9 +47,10 @@ Veja o plano estruturado em:
 
 ## 📷 Visual do Projeto
 
-![Mapa Mental](./assets/mapa-mental.png)
-📊 [Baixar apresentação](./assets/apresentacao.pptx)
-🎥 [Assistir vídeo](LINK_AQUI)
+![Mapa Mental](./assets/NotebookLM Mind Map.png)
+📊 [Baixar apresentação](./assets/The_Future_Analyst.pptx)
+🎥 [Assistir vídeo](./assests/analista_de_Dados_Carreira_2026.mp4)
+
 ---
 
 ## 🤝 Contribuição
