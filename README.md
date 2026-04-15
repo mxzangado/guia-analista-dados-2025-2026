@@ -1,6 +1,19 @@
-# 📊 Guia de Carreira: Analista de Dados (2025/2026)
+## 🤖 Uso de Inteligência Artificial
 
-Este repositório é um guia completo para quem deseja se tornar um **Analista de Dados**, com foco em habilidades técnicas, ferramentas, mercado e evolução de carreira.
+Este projeto foi desenvolvido com o apoio de ferramentas de IA generativa para:
+
+* Estruturação do conteúdo
+* Apoio na escrita dos textos
+* Organização das ideias
+
+Todo o material foi revisado, adaptado e validado por mim como parte do meu processo de aprendizado em Análise de Dados.
+
+---
+
+## 📚 Objetivo do Projeto
+
+Este repositório foi criado como parte de um curso online, com o objetivo de consolidar conhecimentos na área de dados e praticar a organização de um projeto no GitHub.
+
 
 ---
 
